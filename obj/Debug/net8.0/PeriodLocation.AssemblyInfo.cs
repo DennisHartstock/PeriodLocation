@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeriodLocation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d274db131e0f52e5de1b08b4aed2beaa0dd506")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeriodLocation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeriodLocation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

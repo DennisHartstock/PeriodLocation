@@ -1,21 +1,27 @@
-﻿string[] myStrings = new string[2]
-{ "I like pizza. I like roast chicken. I like salad",
-"I like all three of the menu choices"
-};
+﻿string[] myStrings = ["I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices"];
 
-int periodLocation;
+string myString = "";
+int periodLocation = 0;
 
-foreach (var myString in myStrings)
+for (int i = 0; i < myStrings.Length; i++)
 {
-    do
+    myString = myStrings[i];
+    periodLocation = myString.IndexOf(".");
+
+    string mySentence;
+
+    while (periodLocation != -1)
     {
+
+        mySentence = myString.Remove(periodLocation);
+
+        myString = myString.Substring(periodLocation + 1).TrimStart();
+
         periodLocation = myString.IndexOf(".");
 
-        if (periodLocation != -1)
-        {
-            myString.Remove(periodLocation).Substring(periodLocation + 1).TrimStart();
-            Console.WriteLine("");
-        }
-
-    } while (periodLocation == -1);
+        Console.WriteLine(mySentence);
+    }
+ 
+    mySentence = myString.Trim();
+    Console.WriteLine(mySentence);
 }

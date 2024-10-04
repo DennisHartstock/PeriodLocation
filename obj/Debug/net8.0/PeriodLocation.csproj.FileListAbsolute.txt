@@ -12,3 +12,4 @@ D:\C#\PeriodLocation\obj\Debug\net8.0\refint\PeriodLocation.dll
 D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.pdb
 D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.genruntimeconfig.cache
 D:\C#\PeriodLocation\obj\Debug\net8.0\ref\PeriodLocation.dll
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.sourcelink.json
