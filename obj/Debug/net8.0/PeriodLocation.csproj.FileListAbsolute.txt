@@ -1,0 +1,14 @@
+D:\C#\PeriodLocation\bin\Debug\net8.0\PeriodLocation.exe
+D:\C#\PeriodLocation\bin\Debug\net8.0\PeriodLocation.deps.json
+D:\C#\PeriodLocation\bin\Debug\net8.0\PeriodLocation.runtimeconfig.json
+D:\C#\PeriodLocation\bin\Debug\net8.0\PeriodLocation.dll
+D:\C#\PeriodLocation\bin\Debug\net8.0\PeriodLocation.pdb
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.AssemblyInfoInputs.cache
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.AssemblyInfo.cs
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.csproj.CoreCompileInputs.cache
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.dll
+D:\C#\PeriodLocation\obj\Debug\net8.0\refint\PeriodLocation.dll
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.pdb
+D:\C#\PeriodLocation\obj\Debug\net8.0\PeriodLocation.genruntimeconfig.cache
+D:\C#\PeriodLocation\obj\Debug\net8.0\ref\PeriodLocation.dll
